@@ -12,7 +12,7 @@
       "flags": {}
     }
   ],
-  "version": "1.1.0",
+  "version": "1.0.0",
   "compatibility": {
     "minimum": "10",
     "verified": "10"
@@ -73,7 +73,7 @@
       "flags": {}
     }
   ],
-  "download": "https://mega.nz/folder/V05XSLIK#Xmkt4CWh4ZdYs9uGhNLRWA",
-  "manifest": "https://raw.githubusercontent.com/ilregnodiwagham/wagham-quickstart/main/module.json",
-  "url": "https://github.com/ilregnodiwagham/wagham-quickstart"
+  "download": "",
+  "manifest": "https://raw.githubusercontent.com/ilregnodiwagham/wagham-module/main/module.json",
+  "url": "https://github.com/ilregnodiwagham/wagham-module"
 }
