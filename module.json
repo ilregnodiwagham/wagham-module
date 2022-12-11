@@ -1,7 +1,7 @@
 {
-  "id": "wagham-quickstart",
-  "title": "Wagham Quickstart",
-  "description": "A FoundryVTT module, including all the assets for the Wagham Quickstart, in conviniet Compendia.",
+  "id": "wagham-module",
+  "title": "Wagham Module",
+  "description": "A FoundryVTT module, including all the assets for the Wagham Quickstart, in convenient Compendia.",
   "authors": [
     {
       "name": "Calcifer",
